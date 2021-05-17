@@ -24,8 +24,8 @@ const ClientsWidget = () => {
 
   useEffect(() => {
     // results
-    // console.log(`Result: ${JSON.stringify(clientsResults[0])}`)
-    // console.log(`Result: ${JSON.stringify(mapResults.mapFeatures[0])}`)
+    // console.log(`Result: ${JSON.stringify(clientsData)}`)
+    // console.log(`Result: ${JSON.stringify(mapData)}`)
   })
   return (
     <>
