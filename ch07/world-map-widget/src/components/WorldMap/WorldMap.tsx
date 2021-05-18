@@ -27,7 +27,7 @@ const WorldMap = (props: IWorldMapProps) => {
       if (rotation >= 360) {
         newRotation = rotation - 360
       }
-      setRotation(newRotation + 0.2)
+      setRotation(newRotation + props.rotationSpeed)
     }
   })
 
