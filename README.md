@@ -1,6 +1,6 @@
 # Apress Source Code
 
-This repository accompanies [*%Integrating D3.js with React*](https://www.apress.com/9781484270516) by Elad Elrom (Apress, 2021).
+This repository accompanies [*Integrating D3.js with React*](https://www.apress.com/9781484270516) by Elad Elrom (Apress, 2021).
 
 [comment]: #cover
 ![Cover image](9781484270516.jpg)
@@ -23,6 +23,6 @@ Additionally, [hire the author as your tutor for d3, react, javascript, typescri
 
 ## Where to go from here?
 
-- [Take the interactive d3 and React Course](https://www.udemy.com/share/104AcSAEMacVxQTH0D/)
+- [Take the interactive d3 and React Course](https://www.udemy.com/course/integrating-d3js-with-react/?referralCode=4C1ADE35AB8633B90205)
 - Check the author's latest articles on [Medium](https://medium.com/react-courses)
 - [Visit the author's site EliElrom.com](https://elielrom.com)
